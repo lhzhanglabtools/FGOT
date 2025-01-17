@@ -1,8 +1,6 @@
-# FGOT-master
-
 ## Overview
-
-Integrating single-cell or spatial transcriptomic and epigenomic data enables scrutinizing the transcriptional regulatory mechanisms controlling cell fate.  
+![FGOT_Overview](https://github.com/lhzhanglabtools/FGOT/blob/main/FGOT_overview.png)
+Interpretable transcriptional regulatory analysis by integrating single cell and spatial multi-omics data  
 
 ## Requirements
 
