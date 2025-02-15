@@ -32,6 +32,7 @@ Install FGOT:
 python setup.py build
 python setup.py install
 ```
+The detailed information for installation can be found [here] (https://github.com/YCH-bioinf/FGOT-master)
 ## Tutorial
 For the step-by-step tutorials are included in the 'Tutorial' folder to show how to use FGOT.
 
