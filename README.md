@@ -1,6 +1,6 @@
 # FGOT
 
-![FGOT_Overview](https://github.com/lhzhanglabtools/FGOT/blob/main/FGOT_overview.tiff)
+![FGOT_Overview](https://github.com/lhzhanglabtools/FGOT/blob/main/Fig1_overview.tiff)
 
 ## Overview
 
